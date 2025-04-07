@@ -1,6 +1,6 @@
 # George Minasyan's User Page
 ## Introduction
-![Picture of me.](assets/images/me.jpg)
+![Picture of me.](me.jpg)
 
 - Armenian
 - He/Him
@@ -33,7 +33,7 @@ Link to Introduction: [Introduction](#introduction).
 
 Link to Programming Knowledge: [Programming Knowledge](#programming-knowledge).
 
-[Link to my README file](docs/README.md)
+[Link to my README file](README.md)
 
 Favorite Git command: `git commit` 
 
