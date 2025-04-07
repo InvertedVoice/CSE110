@@ -1,6 +1,6 @@
 # George Minasyan's User Page
 ## Introduction
-![Picture of me.](/assets/images/me.jpg)
+![Picture of me.](assets/images/me.jpg)
 
 - Armenian
 - He/Him
@@ -30,6 +30,7 @@ Basic knowledge of Java for *a year*.
 
 ## Miscellaneous
 Link to Introduction: [Introduction](#introduction).
+
 Link to Programming Knowledge: [Programming Knowledge](#programming-knowledge).
 
 [Link to my README file](docs/README.md)
