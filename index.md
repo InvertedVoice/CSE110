@@ -1,10 +1,12 @@
 # George Minasyan's User Page
 ## Introduction
 ![Picture of me.](/assets/images/me.jpg)
+
 - Armenian
 - He/Him
 - 22 Years Old
 - Majoring in Computer Science
+
  > "Your life is yours to live. You shouldn't have to justify it to anyone else"
 
 **A programmer who was originally born in Armenia and moved to America.** Have been attending UCSD since Fall 2024. Earned an Associate of Science for Math and Computer Science in Spring 2024. Currently a Junior Transfer.
@@ -27,10 +29,10 @@ Basic knowledge of Java for *a year*.
 - [] Learn a new musical skill in 2025.
 
 ## Miscellaneous
-Link to Introduction: [Link Text](#introduction).
-Link to Programming Knowledge: [Link Text](#programming-knowledge).
+Link to Introduction: [Introduction](#introduction).
+Link to Programming Knowledge: [Programming Knowledge](#programming-knowledge).
 
-[Link to my README file](CSE110/README.md)
+[Link to my README file](docs/README.md)
 
 Favorite Git command: `git commit` 
 
