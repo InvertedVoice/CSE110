@@ -1,2 +1,3 @@
 # CSE110
-Repository for my CSE110 Class 
+George Minasyan's User Page
+Favorite programming language: C++
